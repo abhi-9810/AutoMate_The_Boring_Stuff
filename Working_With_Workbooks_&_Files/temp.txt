@@ -1,0 +1,49 @@
+1. The value of 4¾ - 2½ =
+a. 1¼
+b. 1¾
+c. 2¼
+d. 2¾
+2. Mohit gains 60 paise on Rs.60. His gain percent is ________
+a. 1%
+b. 0.1%
+c. 2%
+d. 1.1%
+3. A duck flew at speed of 18 km per hour for 3 hours, then at speed of 15 km per hour for 2 hours. How far did the duck fly in all?
+a. 69 km
+b. 75 km
+c. 81 km
+d. 84 km
+4. In a quiz, 40 prizes consisting of 1st and 2nd prizes only are to be given. 1st and 2nd prizes are worth Rs.2500 and Rs.1500, respectively. If the total prize money is Rs.85,000, then
+(i) The equation formed is
+(ii) The number of 1st prizes are
+(iii) The number of 2nd prizes are
+(i) (ii) (iii)
+a. 2500x + 1500(40 – x) = 85000 25 15
+b. 2500x – 1500(40 – x) = 85000 36 4
+c. 2500x × 1500(x – 40) = 85000 20 20
+d. 2500x – 1500(x – 40) = 85000 15 25
+6. 200 kg of sugar was purchased at the rate of Rs.15 per kg and sold at a profit of 5%.Compute the selling price per kg
+a. Rs. 18.25
+b. Rs. 13.85
+c. Rs. 15.75
+d. Rs. 31.50
+7. What is the area of trapezoid QRST in square units?
+a. 22
+b. 27
+c. 38
+d. 48
+8. Find the number of coins, each of which are 1.5 cm in diameter and 0.2 cm thick, required to form a right circular cylinder of height 10 cm and diameter 4.5 cm.
+a. 450
+b. 250
+c. 350
+d. 400
+9. Ramu put a square fence around his vegetable garden to keep the deer away from eating his corn. One side was 10 m in length. If the posts were placed 2 m apart, how many posts did he use?
+a. 16
+b. 20
+c. 10
+d. 15
+10. Find the sum of a, b, c, d, e, f, g and h.
+a. 720o
+b. 360o
+c. 540o
+d. 180o
