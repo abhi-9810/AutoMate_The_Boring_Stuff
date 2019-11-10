@@ -6,7 +6,7 @@ This repository contains the code to organize set of pics of differnt people int
  1. face_recognition
  2. dlib 
  3. opencv
- 
+ 4. tensorflow
  
 ### Prerequisites
 
@@ -25,6 +25,11 @@ To install opencv use
 ```
 pip install opencv-python
 ```
+To install tensorflow 
+
+```
+pip install tensorflow
+```
 
 
 ### Using
@@ -41,14 +46,17 @@ python group_pics.py "Name of Folder containing Pics" "Name of Folder to save Pi
 For Example (You can run this command for testing purposes, pics has been included with the output)
 
 ```
-python3 group_pics.py dataset f_dataset
+python3 group_pics.py dataset dataset_group
 ```
 
 ### Output
 
-1. You will get output in the folder you specified, in the form of differnt folders contining pics of same person grouped togehter. 
-2. For group pics, you will get different folder with the pics of the group. 
+1. You will get output in the folder you specified, First folder will be 'all_faces_with_label' in this folder there will be different folders with (label as their name) and they will contain the faces of person with that label.
+2. Then there will be many other folders with group or single pics of people in folder whose names are specified by the label of the person. 
 
+### Issues
+1. It takes too much time 5-10 seconds per pic based on your computer architecture.
+2. It takes person with stylish specs and without as different, can't able to identify if the person is wearing stylish specs.
 
 ## Built With
 
